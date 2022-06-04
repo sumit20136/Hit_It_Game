@@ -1,0 +1,22 @@
+*
+{
+    margin:0px;
+}
+h1
+{
+    color:white;
+    background-color: black;
+    /* display:inline; */
+}
+#end
+{
+    background-color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.container
+{
+    width:200px;
+    height: 200px;;
+}

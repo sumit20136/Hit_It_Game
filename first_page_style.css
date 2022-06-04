@@ -1,0 +1,48 @@
+*
+{
+    padding:0;
+    margin: 0;
+}
+h1
+{
+    font-size: 8rem;
+    z-index: 2;
+}
+.container
+{
+    background-image: url("./play.png");
+    background-size: cover;
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;    
+}
+
+#box
+{
+    padding: 4px;
+    margin: 30px;
+    width: 30vw;
+    height: 50vh;
+    border-radius: 20px;
+}
+#start
+{
+    background:url("./texture.png");
+    width: 15rem;
+    height: 5rem;
+    border-radius: 40px;
+}
+b
+{
+    font-size: 3rem;
+    color: white;
+    font-family: 'Baloo Bhai 2', cursive;
+    font-family: 'Dancing Script', cursive;
+}
+button
+{
+    cursor: pointer;
+}
